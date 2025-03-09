@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+
 # NAME: find_orphan_rbd_images.sh
 #
 # DESCRIPTION:
